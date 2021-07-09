@@ -14,7 +14,6 @@ export function Home() {
         return el
       }
     })
-    console.log(match)
 
     if (match.length > 0) {
       Alert.alert(
